@@ -42,6 +42,7 @@
 .img-size {
     width: 456px;
     height: 477px;
+    object-fit: cover;
 }
 
 
@@ -189,5 +190,16 @@ header {
 
 /* Depends on and Survive  */
 
+.get-my-updates {
+    text-align: center;
+    width: 700px;
+}
+
+.form {
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
 
 
